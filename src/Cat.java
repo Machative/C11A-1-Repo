@@ -48,5 +48,7 @@ public class Cat {
 		
 		g2.drawString("MEEOW!", catX - 30, catY+HEAD_DIMENSION+20);
 		
+		g2.drawString("ROOF", catX-50, catY+HEAD_DIMENSION-40);
+		
 	}
 }
