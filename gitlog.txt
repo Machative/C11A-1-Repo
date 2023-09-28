@@ -1,0 +1,41 @@
+commit 0356e4c1fac6a95410bcebf8015542a32ba10b1f
+Author: Machative <machjayus@gmail.com>
+Date:   Thu Sep 28 12:57:03 2023 -0600
+
+    Changed around some colors - Aidan
+
+commit c7ba1df3c75070b971c8148ad6ab8c5e6e8fb90d
+Author: coltonmo2025 <99382392+coltonmo2025@users.noreply.github.com>
+Date:   Thu Sep 28 12:55:54 2023 -0600
+
+    Colton- Added roof
+
+commit 2ee24eca64f4d8eadc5f31d1aa264b04441d4b2a
+Author: Machative <machjayus@gmail.com>
+Date:   Thu Sep 28 12:54:19 2023 -0600
+
+    Moved secondary exclamation - Aidan
+
+commit 2c54d8a027f333cc5535f3e762214df1dc584e42
+Author: coltonmo2025 <99382392+coltonmo2025@users.noreply.github.com>
+Date:   Thu Sep 28 12:53:31 2023 -0600
+
+    Colton- Added another exclamation
+
+commit 69665fb972d650cf786626a458da85a1dab10c8c
+Author: Machative <machjayus@gmail.com>
+Date:   Thu Sep 28 12:51:28 2023 -0600
+
+    Changed meow to roar - Aidan
+
+commit 03c838b1aa375767cc29b7368101fa0db0d4acfb
+Author: coltonmo2025 <99382392+coltonmo2025@users.noreply.github.com>
+Date:   Thu Sep 28 12:42:15 2023 -0600
+
+    Colton: changed the colors and made minor improvements
+
+commit 7e9b50d3c8d4de17a853a30b10d35d3facab1d24
+Author: Aidan Ferry <machjayus@gmail.com>
+Date:   Tue Sep 26 12:56:18 2023 -0600
+
+    Initial commit - Aidan
